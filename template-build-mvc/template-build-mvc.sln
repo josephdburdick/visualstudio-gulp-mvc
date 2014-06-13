@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "template_build_mvc", "..\..\visual studio 2013\Projects\template-build-mvc\template-build-mvc\template_build_mvc.vbproj", "{375FF2A7-E179-4D19-85D5-9A984D0C3FDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{482B5733-173B-4304-8D2D-ED64ADA7ECD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375FF2A7-E179-4D19-85D5-9A984D0C3FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375FF2A7-E179-4D19-85D5-9A984D0C3FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375FF2A7-E179-4D19-85D5-9A984D0C3FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375FF2A7-E179-4D19-85D5-9A984D0C3FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
