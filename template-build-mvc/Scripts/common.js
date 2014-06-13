@@ -2,7 +2,7 @@
 function Common(){
     var self = this;
     self.doStuff = function(){
-        console.log('Common doing stuff');
+        console.log('Common.js doing stuff');
     };
     return self;
 }
